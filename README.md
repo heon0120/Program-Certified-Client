@@ -1,6 +1,9 @@
 # Program-Certified-Client
 Authentication Server Communication Client for Program Authentication
 
+## 추가-라이선스 변경공지
+이 프로젝트는pyside로 라이브러리를 변경할 예정이기 때문에 라이선스는LGPL로 변경됩니다. 그러나 이미 배포된 인증프로그램은 PyQt를 사용하므로 이 리포지토리는 GPL로 유지됩니다.
+
 ## 기능
 - 사용자로부터 인증 키를 입력받아 서버에 전송
   
